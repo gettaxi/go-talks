@@ -1,5 +1,17 @@
 # Gett & Juno Golang presentations
 
+## November 2018
+
+### DevFest Siberia 2018
+
+- Vladislav Bogomolov ([@vladson](https://github.com/vladson)): [How not Rails on Go](https://talks.godoc.org/github.com/gettaxi/go-talks/2018/11/how_not_rails_on_go/main.slide)
+
+## October 2018
+
+### Ruby Russia
+
+- Vladislav Bogomolov ([@vladson](https://github.com/vladson)): [How not to ruby on Go](https://talks.godoc.org/github.com/gettaxi/go-talks/2018/10/how-not-to-ruby-on-go/main.slide)
+
 ## August 2018
 
 ### Latest and greatest Golang additions @ Gett
